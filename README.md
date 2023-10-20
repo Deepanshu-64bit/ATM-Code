@@ -5,5 +5,4 @@ This GitHub project hosts a straightforward C++ ATM code that allows users to pe
 * Deposit: Add funds to their account. 
 + Withdraw: Take out cash from their account.
 
-**Link:-**
-https://replit.com/@deepanshu002022/ATM-Program?v=1
+**Link:-**https://replit.com/@Deepanshu-64bit/ATM-Program?v=1
